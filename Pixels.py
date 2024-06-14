@@ -7,6 +7,11 @@
 # source /home/isobel/NuOsc/.pixelenv/bin/activate
 # sudo -E env PATH=$PATH python3 /home/isobel/NuOsc/Pixels.py
 #
+# Press button to send a neutrino on its way!
+# On the very first time, the graph won't actually show -.-    (my python effort expired)
+# On the second time the graph will recalibrate its position   (my python effort expired)
+# On the third time, and onwards everything should be fine! :D (good enough?) 
+#
 # Contact: Isobel Mawby (i.mawby1@lancaster.ac.uk)
 ########################################################################
 
